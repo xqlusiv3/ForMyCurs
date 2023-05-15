@@ -1,0 +1,72 @@
+﻿<Page x:Class="NPP.PagesApp.Admin.TrackingOrderPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NPP.PagesApp.Admin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="TrackingOrderPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button   Content="Назад"
+                  Width="100" 
+                  Margin="875,12,0,12" HorizontalAlignment="Left" Height="NaN"
+                  Click="BackButton_Click"/>
+        <StackPanel Grid.Row="0" 
+                    Orientation="Horizontal" 
+                    Margin="5">
+            <TextBlock Text="ИД контракта:" 
+                       VerticalAlignment="Bottom"
+                       Foreground="White"
+                       FontSize="16"
+                       Margin="3" Height="28"
+                       />
+            <TextBox Name="ContractIdTextBox"
+                     Width="150" 
+                     Margin="5"
+                     Foreground="White"
+
+                     materialDesign:HintAssist.Hint="Поиск" 
+                     Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+            <Button Name="ButtonTracker" 
+                    Content="Поиск" 
+                    Width="100" 
+                    Margin="5"
+                    Click="ButtonTracker_Click"/>
+        </StackPanel>
+        <DataGrid Grid.Row="1"
+                  Margin="5" 
+                  Name="ContractDataGrid"
+                  Foreground="White"
+                  Background="#FF30373E"
+                  IsReadOnly="True"
+                  AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ИД"
+                                    Binding="{Binding Id}"
+                                    Width="*"/>
+                <DataGridTextColumn Header="Название"
+                                    Binding="{Binding Name}"
+                                    Width="*"/>
+                <DataGridTextColumn Header="ИД работника"
+                                    Binding="{Binding IdWorker}"
+                                    Width="*"/>
+                <DataGridTextColumn Header="ИД продукта"
+                                    Binding="{Binding IdOrgProduct}"
+                                    Width="*"/>
+                <DataGridTextColumn Header="Дата заключения"
+                                    Binding="{Binding DateContract,StringFormat='{}{0:dd.MM.yyyy}'}"
+                                    Width="*"/>
+                <DataGridTextColumn Header="Статус"
+                                    Binding="{Binding IdStatus}"
+                                    Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

@@ -1,0 +1,20 @@
+﻿NPP
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\
+NPP
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\love polsha\Desktop\NPP\App.xaml
+10-481955091
+
+34-1503545308
+228876878452
+MainWindow.xaml;PagesApp\Admin\CreateOrderPage.xaml;PagesApp\Admin\CreateOrderPopupPage.xaml;PagesApp\Admin\EditOrderPage.xaml;PagesApp\Admin\MenuAdminPage.xaml;PagesApp\Admin\TrackingOrderPage.xaml;PagesApp\CommonPages\ProductInfoPage.xaml;PagesApp\Home\CreateAccountPage.xaml;PagesApp\Home\LoginPage.xaml;PagesApp\User\MenuUserPage.xaml;
+
+True
+

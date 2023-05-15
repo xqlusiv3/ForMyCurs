@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="PagesApp\Admin\CreateOrderPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PagesApp\Admin\CreateOrderPopupPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PagesApp\Admin\EditOrderPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PagesApp\Admin\MenuAdminPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PagesApp\Admin\TrackingOrderPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PagesApp\CommonPages\ProductInfoPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PagesApp\Home\CreateAccountPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PagesApp\Home\LoginPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PagesApp\User\MenuUserPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PagesApp\Admin\CreateOrderPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PagesApp\Admin\CreateOrderPopupPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PagesApp\Admin\EditOrderPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PagesApp\Admin\MenuAdminPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PagesApp\Admin\TrackingOrderPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PagesApp\CommonPages\ProductInfoPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PagesApp\Home\CreateAccountPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PagesApp\Home\LoginPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PagesApp\User\MenuUserPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

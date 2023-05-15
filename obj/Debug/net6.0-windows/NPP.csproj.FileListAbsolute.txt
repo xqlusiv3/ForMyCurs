@@ -1,0 +1,441 @@
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.csproj.AssemblyReference.cache
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP_MarkupCompile.cache
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP_MarkupCompile.lref
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\NPP.exe
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\NPP.deps.json
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\NPP.runtimeconfig.json
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\NPP.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\NPP.pdb
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\App.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.g.resources
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.AssemblyInfoInputs.cache
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.AssemblyInfo.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.csproj.CoreCompileInputs.cache
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.csproj.CopyComplete
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.dll
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\refint\NPP.dll
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.pdb
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\NPP.genruntimeconfig.cache
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\ref\NPP.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\NPP.exe
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\NPP.deps.json
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\NPP.runtimeconfig.json
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\NPP.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\NPP.pdb
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.csproj.AssemblyReference.cache
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP_MarkupCompile.cache
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP_MarkupCompile.lref
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\App.baml
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.g.resources
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.AssemblyInfoInputs.cache
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.AssemblyInfo.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.csproj.CoreCompileInputs.cache
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.csproj.CopyComplete
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.dll
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\refint\NPP.dll
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.pdb
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\NPP.genruntimeconfig.cache
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\ref\NPP.dll
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\love polsha\Desktop\Projects\NPP\bin\Debug\net6.0-windows\Syncfusion.Tools.WPF.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.csproj.AssemblyReference.cache
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP_MarkupCompile.cache
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP_MarkupCompile.lref
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\refint\NPP.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.pdb
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\NPP.exe
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\NPP.deps.json
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\NPP.runtimeconfig.json
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\NPP.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\NPP.pdb
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\Syncfusion.Tools.WPF.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\App.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.baml
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.g.resources
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.AssemblyInfoInputs.cache
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.AssemblyInfo.cs
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.csproj.CoreCompileInputs.cache
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.csproj.CopyComplete
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\NPP.genruntimeconfig.cache
+C:\Users\love polsha\Desktop\Projects\NPP — копия\obj\Debug\net6.0-windows\ref\NPP.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\NPP.exe
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\NPP.deps.json
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\NPP.runtimeconfig.json
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\NPP.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\NPP.pdb
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\Syncfusion.Tools.WPF.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\leksa\Desktop\NPP — копия\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.csproj.AssemblyReference.cache
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP_MarkupCompile.cache
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP_MarkupCompile.lref
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\App.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.baml
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.g.resources
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.AssemblyInfoInputs.cache
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.AssemblyInfo.cs
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.csproj.CoreCompileInputs.cache
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.csproj.CopyComplete
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.dll
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\refint\NPP.dll
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.pdb
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\NPP.genruntimeconfig.cache
+C:\Users\leksa\Desktop\NPP — копия\obj\Debug\net6.0-windows\ref\NPP.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\NPP.exe
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\NPP.deps.json
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\NPP.runtimeconfig.json
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\NPP.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\NPP.pdb
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\Syncfusion.Tools.WPF.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\leksa\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.csproj.AssemblyReference.cache
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP_MarkupCompile.cache
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP_MarkupCompile.lref
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\App.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Home\CreateAccountPage.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Home\LoginPage.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.baml
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.g.resources
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.AssemblyInfoInputs.cache
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.AssemblyInfo.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.csproj.CoreCompileInputs.cache
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.csproj.CopyComplete
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.dll
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\refint\NPP.dll
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.pdb
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\NPP.genruntimeconfig.cache
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\ref\NPP.dll
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPopupPage.g.cs
+C:\Users\leksa\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPopupPage.baml
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\Syncfusion.Tools.WPF.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\love polsha\Desktop\NPP\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPopupPage.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.g.cs
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPage.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\CreateOrderPopupPage.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\EditOrderPage.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\MenuAdminPage.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\Admin\TrackingOrderPage.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\CommonPages\ProductInfoPage.baml
+C:\Users\love polsha\Desktop\NPP\obj\Debug\net6.0-windows\PagesApp\User\MenuUserPage.baml
